@@ -1,3 +1,7 @@
+La razón por la cual ahora se puede hacer commit y subir la carpeta archivos es porque ya no está vacía. Al agregar archivos como respuesta.txt y merge.txt, Git puede rastrear la carpeta y sus contenidos, lo que permite que se suban al repositorio en GitHub.
+
 Nombre : Paulina Gomez Hincapie
 Edad : 21
 Aspiraciones : Aspiro a adquirir un profundo entendimiento de los principios de la programación orientada a objetos
+
+Es importante tener cuidado al modificar un mismo archivo desde diferentes ubicaciones porque puede generar conflictos de versiones. Cuando varios usuarios editan el mismo archivo simultáneamente, los cambios de cada uno pueden entrar en conflicto y causar pérdidas de datos.
