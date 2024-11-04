@@ -1,0 +1,3 @@
+Nombre : Paulina Gomez Hincapie
+Edad : 21
+Aspiraciones : Aspiro a adquirir un profundo entendimiento de los principios de la programación orientada a objetos
