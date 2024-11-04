@@ -1,0 +1,1 @@
+La razón por la cual ahora se puede hacer commit y subir la carpeta archivos es porque ya no está vacía. Al agregar archivos como respuesta.txt y merge.txt, Git puede rastrear la carpeta y sus contenidos, lo que permite que se suban al repositorio en GitHub.
