@@ -1,0 +1,1 @@
+Como la carpeta archivos está vacía, Git no permite hacer un commit de esta, ya que no detecta carpetas vacías para agregar al repositorio. Git solo rastrea archivos, no carpetas sin contenido. Por lo tanto, para que la carpeta archivos sea reconocida y pueda ser incluida en el commit, es necesario que contenga al menos un archivo.
